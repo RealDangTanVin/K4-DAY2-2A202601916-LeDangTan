@@ -45,11 +45,11 @@ Vì sao phần scan này mạnh:
 
 ## Top 3
 
-| Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
-|---|---|---|---|
-| 1 | Weekly Report | Workflow rõ, mất nhiều thời gian, có metric tốt | Narrative "đủ tốt" đo thế nào |
-| 2 | Review PRD | Có pain thật, AI có thể giúp đọc/tóm tắt | Quality improvement khó đo |
-| 3 | Slack Search | Nhiều người đau, impact rộng | Data access khó, scope có thể quá lớn |
+| Rank | Problem       | Vì sao chọn                                     | Điều còn chưa chắc                    |
+| ---- | ------------- | ----------------------------------------------- | ------------------------------------- |
+| 1    | Weekly Report | Workflow rõ, mất nhiều thời gian, có metric tốt | Narrative "đủ tốt" đo thế nào         |
+| 2    | Review PRD    | Có pain thật, AI có thể giúp đọc/tóm tắt        | Quality improvement khó đo            |
+| 3    | Slack Search  | Nhiều người đau, impact rộng                    | Data access khó, scope có thể quá lớn |
 
 ## Problem Card #1 — Weekly Report
 
@@ -169,10 +169,10 @@ Vì sao không chọn các bài khác:
 
 Nhóm hỏi nhanh 3 PM/PO quen biết.
 
-| Nguồn | Số người | Tín hiệu xác nhận | Tín hiệu phản bác | Nhóm sửa problem thế nào |
-|---|---:|---|---|---|
-| Quick interview | 3 | 2/3 người viết weekly/monthly update thủ công; đều đau ở phần narrative | 1 người nói dashboard đã đủ cho team của họ | Thu hẹp problem: không phải "report automation", mà là "draft narrative từ data có sẵn" |
-| Mini poll trong lớp | 6 | 4/6 từng phải tổng hợp report/update từ nhiều nguồn | Một số report không cần AI, chỉ cần template | Thêm non-AI alternative: template + dashboard |
+| Nguồn               | Số người | Tín hiệu xác nhận                                                       | Tín hiệu phản bác                            | Nhóm sửa problem thế nào                                                                |
+| ------------------- | -------: | ----------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Quick interview     |        3 | 2/3 người viết weekly/monthly update thủ công; đều đau ở phần narrative | 1 người nói dashboard đã đủ cho team của họ  | Thu hẹp problem: không phải "report automation", mà là "draft narrative từ data có sẵn" |
+| Mini poll trong lớp |        6 | 4/6 từng phải tổng hợp report/update từ nhiều nguồn                     | Một số report không cần AI, chỉ cần template | Thêm non-AI alternative: template + dashboard                                           |
 
 Insight sau validation:
 
